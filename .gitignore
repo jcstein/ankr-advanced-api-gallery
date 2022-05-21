@@ -1,0 +1,8 @@
+node_modules
+
+/.cache
+/api
+/build
+/public/build
+.env
+/api/index.js
